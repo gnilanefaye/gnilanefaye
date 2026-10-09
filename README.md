@@ -12,8 +12,9 @@ J'utilise la data et l'IA pour mieux comprendre les réseaux télécoms.
 | Projet | Description | Stack |
 |--------|-------------|-------|
 | [Pipeline LLM 3GPP](https://github.com/gnilanefaye/TP-LLM-3GPP-Pipeline) | Questions-réponses sur les normes télécoms 3GPP : comparaison de LLM, RAG, fine-tuning QLoRA, RAFT et agents | Python, Transformers, PEFT, FAISS |
+| [Robustesse de la détection d'objets face à la météo](https://github.com/gnilanefaye/weather-robustness-object-detection) | Détection (plaque, téléphone, ceinture…) sur images de caméras routières dégradées par 5 météos × 5 niveaux : la neige fait chuter le mAP@50 de YOLOv8s de 83 % | Python, YOLOv8, PyTorch, Colab |
 
-D'autres projets arrivent : robustesse de la détection d'objets (YOLOv8) et détection de fraude bancaire.
+D'autres projets arrivent : comparaison avec RT-DETR et Faster R-CNN, puis détection de fraude bancaire.
 
 ## 🛠️ Compétences
 

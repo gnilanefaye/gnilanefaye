@@ -1,16 +1,24 @@
-## Hi there 👋
+# Bonjour, je suis Gnilane Faye 👋
 
-<!--
-**gnilanefaye/gnilanefaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Élève-ingénieure en dernière année à l'**ESMT Dakar** (Télécommunications et Informatique, spécialité IA & Data Engineering).
+J'utilise la data et l'IA pour mieux comprendre les réseaux télécoms.
 
-Here are some ideas to get you started:
+- 🔭 **En ce moment** : stage de fin d'études chez **Arc Télécom**, IA appliquée à l'infrastructure fibre optique (vision par ordinateur, OCR, comparaison du réseau prévu et du réseau réel).
+- 🎯 **Je recherche** : un premier poste de Data Engineer ou d'ingénieure IA & Data, à Dakar ou en remote.
+- 📫 **Me contacter** : [LinkedIn](https://www.linkedin.com/in/gnilanefaye)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projets
+
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| [Pipeline LLM 3GPP](https://github.com/gnilanefaye/TP-LLM-3GPP-Pipeline) | Questions-réponses sur les normes télécoms 3GPP : comparaison de LLM, RAG, fine-tuning QLoRA, RAFT et agents | Python, Transformers, PEFT, FAISS |
+
+D'autres projets arrivent : robustesse de la détection d'objets (YOLOv8) et détection de fraude bancaire.
+
+## 🛠️ Compétences
+
+**Langages** : Python, SQL
+**IA** : machine learning, deep learning, vision par ordinateur, NLP, LLM et RAG
+**Data** : ETL, dbt, Power BI, AWS
+**Outils** : Git, Linux, Jupyter
+**Télécoms** : réseaux mobiles, fibre optique
